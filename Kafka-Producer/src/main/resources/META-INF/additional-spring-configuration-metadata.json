@@ -1,0 +1,18 @@
+{
+  "properties": [
+    {
+      "name": "kafka.topic.input",
+      "type": "java.lang.String",
+      "description": "Description for kafka.topic.input."
+    },
+    {
+      "name": "kafka.topic.divisible-3",
+      "type": "java.lang.String",
+      "description": "Description for kafka.topic.input."
+    },
+    {
+      "name": "kafka.topic.divisible-5",
+      "type": "java.lang.String",
+      "description": "Description for kafka.topic.input."
+    }
+  ] }
